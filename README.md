@@ -6,7 +6,7 @@
 
 - 🌱 I'm passionate about data science, machine learning, and software development.
 
-- 📫 How to reach me sheraliozodov.data@gmail.com
+- 📫 How to reach me sheraliozodov@arizona.edu
 
 - 📄 Know about my experiences, projects and articles [sheraliozodov77.github.io/portfolio_website](https://sheraliozodov77.github.io/portfolio_website/)
 
