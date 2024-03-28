@@ -8,7 +8,7 @@
 
 - 📫 How to reach me sheraliozodov@arizona.edu
 
-- 📄 Know about my experiences, projects and articles [sheraliozodov77.github.io/portfolio_website](http://64.23.239.244:8080/html/)
+- 📄 Know about my experiences, projects and articles [sheraliozodov77](http://64.23.239.244:8080/html/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
