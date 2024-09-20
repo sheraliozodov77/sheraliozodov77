@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherali Ozodov</h1>
 
-- 🔭 I'm junior at the University of Arizona.
+- 🔭 I'm senior at the University of Arizona.
 
 - 👨‍💻 I'm currently working as an IT Student Developer at BIO5 Institute.
 
