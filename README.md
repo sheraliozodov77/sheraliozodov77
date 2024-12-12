@@ -7,8 +7,6 @@
 - 🌱 I'm passionate about data science, machine learning, and software development.
 
 - 📫 How to reach me sheraliozodov@arizona.edu
-- 
-## - 📄 Know about my experiences, projects and articles [My Personal Website](https://sheraliozodov77.github.io/personal-website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
